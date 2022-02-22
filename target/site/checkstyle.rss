@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>withdraw-deposit - Checkstyle report</title>
+    <link>https://spring.io/projects/spring-boot/withdraw-deposit</link>
+    <description>withdraw-deposit - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 14,
+             Errors: 120,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.CrudService.java">com/nttdata/withdrawdeposit/service/CrudService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.entity.Withdraw.java">com/nttdata/withdrawdeposit/entity/Withdraw.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.impl.WithdrawServiceImpl.java">com/nttdata/withdrawdeposit/service/impl/WithdrawServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.model.BankAccount.java">com/nttdata/withdrawdeposit/model/BankAccount.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.Calculate.java">com/nttdata/withdrawdeposit/service/Calculate.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.DepositService.java">com/nttdata/withdrawdeposit/service/DepositService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.impl.DepositServiceImpl.java">com/nttdata/withdrawdeposit/service/impl/DepositServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.controller.WithdrawController.java">com/nttdata/withdrawdeposit/controller/WithdrawController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.entity.Deposit.java">com/nttdata/withdrawdeposit/entity/Deposit.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.config.WebClientConfig.java">com/nttdata/withdrawdeposit/config/WebClientConfig.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.repository.WithdrawRepository.java">com/nttdata/withdrawdeposit/repository/WithdrawRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.service.WithdrawService.java">com/nttdata/withdrawdeposit/service/WithdrawService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.repository.DepositRepository.java">com/nttdata/withdrawdeposit/repository/DepositRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/withdraw-deposit/checkstyle.html#com.nttdata.withdrawdeposit.WithdrawDepositApplication.java">com/nttdata/withdrawdeposit/WithdrawDepositApplication.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
